@@ -32,3 +32,17 @@ http://math.hws.edu/eck/js/turing-machine/TM.html
 | A* Search | SI* | SI* | 2^n (b^d) | 2^n (b^d) | Ottimalita' se euristica Ammissibile e Consistente https://www.geeksforgeeks.org/a-search-algorithm/ |
 
 https://www.javatpoint.com/ai-informed-search-algorithms
+
+# Algoritmi costruttivi
+| Nome algoritmo | note |
+|-|-|
+| Nearest Neighbour |  |
+| Multiple Fragment |  |
+| Nearest Addition |  |
+| Space filling Sierpinski |  |
+
+# Local Search
+| Nome algoritmo | note |
+|-|-|
+| Hill Climbing | https://www.javatpoint.com/hill-climbing-algorithm-in-ai |
+| Simulated Annealing |  |
