@@ -26,7 +26,9 @@ http://math.hws.edu/eck/js/turing-machine/TM.html
 
 # Informed Graph Search 
 
-| Nome algoritmo | note |
-|-|-|
-| Best First |  https://www.geeksforgeeks.org/best-first-search-informed-search |
-| A* Search |  https://www.geeksforgeeks.org/a-search-algorithm/ |
+| Nome algoritmo | completezza | ottimalita' | spazio | tempo | note |
+|-|-|-|-|-|-|
+| Best First | NO | NO | 2^n (b^m) | 2^n (b^m) |  https://www.geeksforgeeks.org/best-first-search-informed-search |
+| A* Search | SI* | SI* | 2^n (b^d) | 2^n (b^d) | Ottimalita' se euristica Ammissibile e Consistente https://www.geeksforgeeks.org/a-search-algorithm/ |
+
+https://www.javatpoint.com/ai-informed-search-algorithms
