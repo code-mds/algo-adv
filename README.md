@@ -21,13 +21,12 @@ http://math.hws.edu/eck/js/turing-machine/TM.html
 | DLS: Depth Limited | SI* |NO | n | 2^n | completo se goal prima del limite |
 | IDS: Iterative Deeping | SI | SI | n | 2^(n+1) | ripeto n volte DLS aumentando il limite di 1  https://www.geeksforgeeks.org/iterative-deepening-searchids-iterative-deepening-depth-first-searchiddfs | 
 | BFS: Breadth First | SI | SI | 2^n (b^d) | 2^n (b^d) | ricerca in ampiezza  https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph |
-| Uniform cost  | SI |	SI | 2^n |	2^n | esponenziale | 
+| Uniform cost  | SI |	SI | 2^n |	2^n | esponenziale https://www.geeksforgeeks.org/uniform-cost-search-dijkstra-for-large-graphs | 
 | Bidirectional | SI | SI | 2^(n/2)	| 2^(n/2) | | 
 
 # Informed Graph Search 
 
 | Nome algoritmo | note |
 |-|-|
-| Uniform Cost |  https://www.geeksforgeeks.org/uniform-cost-search-dijkstra-for-large-graphs |
 | Best First |  https://www.geeksforgeeks.org/best-first-search-informed-search |
 | A* Search |  https://www.geeksforgeeks.org/a-search-algorithm/ |
