@@ -36,13 +36,19 @@ https://www.javatpoint.com/ai-informed-search-algorithms
 # Algoritmi costruttivi
 | Nome algoritmo | note |
 |-|-|
-| Nearest Neighbour |  |
-| Multiple Fragment |  |
-| Nearest Addition |  |
-| Space filling Sierpinski |  |
+| Nearest Neighbour | https://users.cs.cf.ac.uk/C.L.Mumford/howard/NearestNeighbour.html |
+| Multiple Fragment | simile a Kruskal  https://users.cs.cf.ac.uk/C.L.Mumford/howard/Multi-Fragment.html |
+| Farthest Insertion | https://users.cs.cf.ac.uk/C.L.Mumford/howard/FarthestInsertion.html |
+| Space filling Sierpinski | crea un frattale proporzionale alla densita' dei nodi https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve |
 
 # Local Search
+- parto da una soluzione ammissibile costruita con algo costruttivo
+- calcolo soluzioni vicine tramite lo scambio di un arco
+- se ho un miglioramento eseguo lo scambio 
+- ripeto fino a quando non trovo soluzioni migliorative
+
 | Nome algoritmo | note |
 |-|-|
 | Hill Climbing | https://www.javatpoint.com/hill-climbing-algorithm-in-ai |
+| 2, 2.5, 3 Opt |  |
 | Simulated Annealing |  |
